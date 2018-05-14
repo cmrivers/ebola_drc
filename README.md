@@ -10,11 +10,17 @@
 
 I am Caitlin Rivers, an Assistant Professor at the [Johns Hopkins Center for Health Security](http://www.centerforhealthsecurity.org/). I administered a repository of Ebola data during the [2014 outbreak.](https://github.com/cmrivers/ebola)
 
-- cmrivers6@jhu.edu
+- caitlin.rivers@gmail.com
 - @cmyeaton
 
 ## Citation
 
-General citation: Rivers, C. (2018). Data for the 2018 Ebola outbreak in the Democratic Republic of Congo. doi:10.5281/zenodo.1246777
+General citation: 
+
+Rivers, C. (2018). Data for the 2018 Ebola outbreak in the Democratic Republic of Congo. doi:10.5281/zenodo.1246777
 
 Specific release: [![DOI](https://zenodo.org/badge/133379468.svg)](https://zenodo.org/badge/latestdoi/133379468)
+
+## Contribute
+
+Please feel free to send a pull requests or a [cup of coffee](ko-fi.com/cmrivers).
