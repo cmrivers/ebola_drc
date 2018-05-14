@@ -23,4 +23,4 @@ Specific release: [![DOI](https://zenodo.org/badge/133379468.svg)](https://zenod
 
 ## Contribute
 
-Please feel free to send a pull request or a [cup of coffee](ko-fi.com/cmrivers).
+Please feel free to send a pull request or a [cup of coffee](www.ko-fi.com/cmrivers).
