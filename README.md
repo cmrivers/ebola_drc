@@ -15,6 +15,6 @@ I am Caitlin Rivers, an Assistant Professor at the [Johns Hopkins Center for Hea
 
 ## Citation
 
-Rivers, C. (2018). Data for the 2018 Ebola outbreak in the Democratic Republic of Congo. doi:10.5281/zenodo.1246778
+General citation: Rivers, C. (2018). Data for the 2018 Ebola outbreak in the Democratic Republic of Congo. doi:10.5281/zenodo.1246777
 
-[![DOI](https://zenodo.org/badge/133379468.svg)](https://zenodo.org/badge/latestdoi/133379468)
+Specific release: [![DOI](https://zenodo.org/badge/133379468.svg)](https://zenodo.org/badge/latestdoi/133379468)
