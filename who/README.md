@@ -1,4 +1,4 @@
-These data are from the [WHO Disease Outbreak Network](http://www.who.int/csr/don/en/) website.
+These data are from the [WHO Disease Outbreak Network](http://www.who.int/csr/don/en/) and the [WHO situation reports](http://www.who.int/ebola/situation-reports/drc-2018/en/).
 
 ### Data interpretation notes
 
