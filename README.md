@@ -2,16 +2,16 @@
 
 ## Contents
 
-`who/` contains data from the [WHO Disease Outbreak Network situation reports](http://www.who.int/csr/don/en/)
+`who/` contains data from the WHO [Disease Outbreak Network](http://www.who.int/csr/don/en/) and [situation reports](http://www.who.int/ebola/situation-reports/drc-2018/en/).
 
-`drc/` contains data from the [DRC Ministry of Health mailing list](http://linkedin.us13.list-manage.com/subscribe?u=89e5755d2cca4840b1af93176&id=aedd23c530)
+`drc/` contains data from the [DRC Ministry of Health mailing list](http://linkedin.us13.list-manage.com/subscribe?u=89e5755d2cca4840b1af93176&id=aedd23c530).
 
 ## Contact
 
 I am Caitlin Rivers, an Assistant Professor at the [Johns Hopkins Center for Health Security](http://www.centerforhealthsecurity.org/). I administered a repository of Ebola data during the [2014 outbreak.](https://github.com/cmrivers/ebola)
 
 - caitlin.rivers@gmail.com
-- @cmyeaton
+- [[@cmyeaton](https://twitter.com/cmyeaton)
 
 ## Citation
 
