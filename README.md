@@ -11,7 +11,7 @@
 I am Caitlin Rivers, an Assistant Professor at the [Johns Hopkins Center for Health Security](http://www.centerforhealthsecurity.org/). I administered a repository of Ebola data during the [2014 outbreak.](https://github.com/cmrivers/ebola)
 
 - caitlin.rivers@gmail.com
-- [[@cmyeaton](https://twitter.com/cmyeaton)
+- [@cmyeaton](https://twitter.com/cmyeaton)
 
 ## Citation
 
