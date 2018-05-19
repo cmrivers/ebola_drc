@@ -1,4 +1,4 @@
-﻿event_date,report_date,province,health_zone,confirmed_cases,confirmed_deaths,probable_cases,probable_deaths,suspect_cases,suspect_deaths,cumulative_hcw,contacts_traced
+event_date,report_date,province,health_zone,confirmed_cases,confirmed_deaths,probable_cases,probable_deaths,suspect_cases,suspect_deaths,cumulative_hcw,contacts_traced
 20180101,20180511,Equateur,Bikoro,,,,,21,17,,
 20180505,20180511,Equateur,Bikoro,,,,,26,,,
 20180507,20180511,Equateur,Bikoro,2,,,,24,,,
@@ -10,3 +10,6 @@
 20180515,20180517,Equateur,Wangata,1,,,,3,,,
 20180515,20180517,Equateur,Bikoro,2,,18,,15,,2,
 20180515,20180517,Equateur,Iboko,,,2,,3,,1,
+20180516,20180518,Equateur,Wangata,1,,,,3,1,,52
+20180516,20180518,Equateur,Bikoro,14,,21,,10,21,,330
+20180516,20180518,Equateur,Iboko,0,,2,,3,3,,120
