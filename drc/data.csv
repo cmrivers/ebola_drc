@@ -1,5 +1,5 @@
 event_date,report_date,health_zone,confirmed_cases,confirmed_deaths,probable_cases,probable_deaths,suspect_cases,suspect_deaths,ruled_out
-20180101,20180510,Bikoro,,,,,21,17,
+20180501,20180510,Bikoro,,,,,21,17,
 20180510,20180510,Bikoro,2,0,,,9,1,
 20180511,20180511,Bikoro,2,0,,,6,0,
 20180511,20180511,Iboko,0,0,,,6,1,
@@ -19,9 +19,9 @@ event_date,report_date,health_zone,confirmed_cases,confirmed_deaths,probable_cas
 20180517,20180518,Bikoro,10,1,19,,0,20,8
 20180517,20180518,Iboko,3,,2,,4,3,
 20180517,20180518,Wangata,4,,0,,1,1,
-20180518,20150519,Bikoro,10,1,19,,0,21,
-20180518,20150519,Iboko,7,,2,,2,3,
-20180518,20150519,Wangata,4,1,0,,2,,
-20180519,20150520,Bikoro,0,1,0,,0,21,
-20180519,20150520,Iboko,0,0,0,,2,3,
-20180519,20150520,Wangata,0,1,0,,1,0,
+20180518,20180519,Bikoro,10,1,19,,0,21,
+20180518,20180519,Iboko,7,,2,,2,3,
+20180518,20180519,Wangata,4,1,0,,2,,
+20180519,20180520,Bikoro,0,1,0,,0,21,
+20180519,20180520,Iboko,0,0,0,,2,3,
+20180519,20180520,Wangata,0,1,0,,1,0,
