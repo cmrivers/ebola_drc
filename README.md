@@ -6,6 +6,11 @@
 
 `drc/` contains data from the [DRC Ministry of Health mailing list](http://linkedin.us13.list-manage.com/subscribe?u=89e5755d2cca4840b1af93176&id=aedd23c530).
 
+## Other resources
+
+[Geospatial data of DRC Health Zones](https://data.humdata.org/dataset/dr-congo-health-0)
+
+
 ## Contact
 
 I am Caitlin Rivers, an Assistant Professor at the [Johns Hopkins Center for Health Security](http://www.centerforhealthsecurity.org/). I administered a repository of Ebola data during the [2014 outbreak.](https://github.com/cmrivers/ebola)
@@ -24,3 +29,4 @@ Specific release: [![DOI](https://zenodo.org/badge/133379468.svg)](https://zenod
 ## Contribute
 
 Please feel free to send a pull request or a [cup of coffee](https://ko-fi.com/cmrivers).
+
