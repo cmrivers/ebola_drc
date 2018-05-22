@@ -22,3 +22,6 @@ event_date,report_date,health_zone,confirmed_cases,confirmed_deaths,probable_cas
 20180518,20180520,Bikoro,10,1,19,,0,21,
 20180518,20180520,Iboko,7,,2,,2,3,
 20180518,20180520,Wangata,4,1,0,,2,1,
+20180520,20180521,Bikoro,10,1,19,,0,21,
+20180520,20180521,Iboko,14,,2,,0,3,
+20180520,20180521,Wangata,4,,0,,2,2,
