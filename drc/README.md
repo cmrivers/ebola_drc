@@ -6,7 +6,7 @@ These data are from the DRC Ministry of Health [mailing list](http://linkedin.us
 
 - Counts of cases and deaths are cumulative. A drop in cases means cases were ruled out or reclassified.
 
-- The columns new\_confirmed, new\_probable, and new\_suspect are also counted in the confirmed_\cases, probable_\cases and suspect\cases columns. In other words, do not sum them.
+- The columns new_confirmed, new_probable, and new_suspect are also counted in the confirmed_cases, probable_cases and suspect_cases columns. In other words, do not sum them.
 
 - 20180101: Cases reported here span from 1 Jan to 8 May. The temporal distribution of cases in that time period is not known. The cases reported during this period are apparently not included in subsequent situation reports.
 
