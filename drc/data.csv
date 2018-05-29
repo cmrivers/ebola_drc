@@ -49,3 +49,6 @@ event_date,report_date,health_zone,confirmed_cases,new_confirmed,probable_cases,
 20180527,20180528,Iboko,21,0,2,0,4,0,6
 20180527,20180528,Wangata,4,0,0,0,1,1,3
 20180527,20180528,Ntondo,0,0,0,0,0,0,0
+20180528,20180529,Bikoro,10,0,11,0,1,0,16
+20180528,20180529,Iboko,21,0,2,0,1,1,6
+20180528,20180529,Wangata,4,0,0,0,1,1,3
