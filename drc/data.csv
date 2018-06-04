@@ -67,3 +67,6 @@ event_date,report_date,health_zone,confirmed_cases,new_confirmed,probable_cases,
 20180602,20180603,Bikoro,10,0,11,0,0,0,17
 20180602,20180603,Iboko,23,0,2,0,3,1,5
 20180602,20180603,Wangata,4,0,0,0,0,0,3
+20180603,20180604,Bikoro,10,0,11,0,5,5,17
+20180603,20180604,Iboko,23,0,2,0,0,0,5
+20180603,20180604,Wangata,4,0,0,0,1,1,3
