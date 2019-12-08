@@ -1,12 +1,14 @@
-# Data for the 2018 Ebola outbreak in the Democratic Republic of Congo
+# Data for the 2018 Ebola outbreak in the Democratic Republic of Congo (Not currently up-to-date)
 
 ## Contents
 
-`who/` contains data from the WHO [Disease Outbreak Network](http://www.who.int/csr/don/en/) and [situation reports](http://www.who.int/ebola/situation-reports/drc-2018/en/).
+`who/` contains data from the WHO [Disease Outbreak Network](http://www.who.int/csr/don/en/) and [situation reports](https://www.who.int/emergencies/diseases/ebola/drc-2019/).
 
 `drc/` contains data from the [DRC Ministry of Health mailing list](http://linkedin.us13.list-manage.com/subscribe?u=89e5755d2cca4840b1af93176&id=aedd23c530).
 
 ## Other resources
+
+[Updated Datasets From WHO's Humanitarian Data Excahnge](https://data.humdata.org/dataset/ebola-cases-and-deaths-drc-north-kivu) - These are csv files that are updated daily.
 
 [Geospatial data of DRC Health Zones](https://data.humdata.org/dataset/dr-congo-health-0)
 
